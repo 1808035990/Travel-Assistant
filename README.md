@@ -1,5 +1,14 @@
 # 智能旅游助手 Travel-Assistant
 
+[![Vue](https://img.shields.io/badge/Vue-3.5.40-42b883.svg)](https://vuejs.org/)
+[![Vite](https://img.shields.io/badge/Vite-8.2.0-646cff.svg)](https://vitejs.dev/)
+[![Vant](https://img.shields.io/badge/Vant-4.10.0-ffba3b.svg)](https://vant-ui.github.io/vant/)
+[![Vue Router](https://img.shields.io/badge/Vue%20Router-4.3.0-42b883.svg)](https://router.vuejs.org/)
+[![Express](https://img.shields.io/badge/Express-4.19.2-000000.svg)](https://expressjs.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-1.2.7-1c3c3c.svg)](https://js.langchain.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-%3E=18-339933.svg)](https://nodejs.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 > 基于 AI 大模型的智能旅游行程规划与对话咨询系统
 
 用户输入目的地、预算和天数后，由大语言模型（LLM）生成结构化的详细旅行行程；同时支持与 AI 进行 SSE 流式实时对话，咨询任意旅游相关问题。
